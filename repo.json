@@ -11,10 +11,10 @@
     "LastUpdate": 1728285253284,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
-    "AssemblyVersion": "0.0.0.172",
+    "AssemblyVersion": "0.0.0.173",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "10",
-    "Changelog": "## What's Changed\r\n* Fix Brayflox Hard by @Herculezz55 in https://github.com/ffxivcode/AutoDuty/pull/553\r\n* Revert Interactable field for a different implementation in todo by @Herculezz55 in https://github.com/ffxivcode/AutoDuty/pull/554\r\n* Added addtional 10s wait from to waitfor combat as waitforcombat time… by @Herculezz55 in https://github.com/ffxivcode/AutoDuty/pull/555\r\n* Wait Time between loops Fix by @Herculezz55 in https://github.com/ffxivcode/AutoDuty/pull/556\r\n* Added check for Arguments.Count > 0 by @Herculezz55 in https://github.com/ffxivcode/AutoDuty/pull/557\r\n* Fixed a bug that would crash if a empty path was saved then clicked… by @Herculezz55 in https://github.com/ffxivcode/AutoDuty/pull/558\r\n* Remove-Italics-/Italics-tags-from-Duty-Names by @Herculezz55 in https://github.com/ffxivcode/AutoDuty/pull/560\r\n* Modified patcher to retrieve md5's.json from repo and patch based on that pulling the files individually from GitHub. by @Herculezz55 in https://github.com/ffxivcode/AutoDuty/pull/596\r\n* Fix s3 by @Herculezz55 in https://github.com/ffxivcode/AutoDuty/pull/597\r\n\r\n\r\n**Full Changelog**: https://github.com/ffxivcode/AutoDuty/compare/0.0.0.171...0.0.0.172",
+    "Changelog": "Ass",
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "ImageUrls": [
       "https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
